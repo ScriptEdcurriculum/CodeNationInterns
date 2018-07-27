@@ -6,7 +6,7 @@ body{
     background-size: cover;
 }
 #scripted{
-    color: black;
+    color: #404040;
 }
 #profile{
     background-color: rgba(255, 255, 255, 0.3) !important;
@@ -23,10 +23,10 @@ body{
     margin: 10px;
 }
 #intern{
-    color: black !important;
+    color: white !important;
 }
 .profile-icon{
-    color: black !important;
+    color: white !important;
 }
 #info{
     background-color: rgba(255, 255, 255, .2);
