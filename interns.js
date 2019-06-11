@@ -342,12 +342,12 @@ var interns = [
         year: 2018,
     },
     {
-        firstName: 'FirstName',
-        lastName: 'LastName',
-        folderName: '',
-        fileName: '',
+        firstName: 'Sergio',
+        lastName: 'Sanchez',
+        folderName: 'sergio_sanchez',
+        fileName: 'sergio.html',
         imgName: '../../assets/site/profile-placeholder.png',
-        company: 'Company',
-        year: 2018,
+        company: 'UnitedMasters',
+        year: 2019,
     },
 ];
