@@ -171,6 +171,15 @@ var interns = [
         year: 2018,
     },
     {
+        firstName: 'Karen',
+        lastName: 'He',
+        folderName: 'karen_he',
+        fileName: 'karen.html',
+        imgName: '../../assets/site/profile-placeholder.png',
+        company: 'Postmates',
+        year: 2019,
+    },
+    {
         firstName: 'Kayahma',
         lastName: 'Brown',
         folderName: 'Kayahma',
