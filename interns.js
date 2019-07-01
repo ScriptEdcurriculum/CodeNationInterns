@@ -288,6 +288,15 @@ var interns = [
         year: 2018,
     },
     {
+        firstName: 'Sergio',
+        lastName: 'Sanchez',
+        folderName: 'sergio_sanchez',
+        fileName: 'sergio.html',
+        imgName: '../../assets/site/profile-placeholder.png',
+        company: 'UnitedMasters',
+        year: 2019,
+    },
+    {
         firstName: 'Stephanie',
         lastName: 'Smith',
         folderName: 'Stephanie_Smith',
@@ -339,15 +348,6 @@ var interns = [
         fileName: 'wuqian.html',
         imgName: '../../assets/site/profile-placeholder.png',
         company: 'Etsy',
-        year: 2018,
-    },
-    {
-        firstName: 'FirstName',
-        lastName: 'LastName',
-        folderName: '',
-        fileName: '',
-        imgName: '../../assets/site/profile-placeholder.png',
-        company: 'Company',
         year: 2018,
     },
 ];
