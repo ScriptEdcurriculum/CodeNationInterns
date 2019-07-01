@@ -10,3 +10,7 @@ h3{
     font-family: 'Cinzel', serif;
 
 }
+
+.section-heading{
+    text-decoration: underline;
+}
