@@ -1,7 +1,27 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
 .profile-img{
     height:100px;
     width:100px;
 }
+.profile-icon{
+    color:gray;
+}
+.profile-icon:hover{
+    color:white;
+    background-color:#588adb;
+    transition:1.4s;
+    text-decoration: none;
+}
 #portfolio{
-
+    border:solid gray 1px;
+    border-radius: 2px;
+    padding:3px;
+}
+.section-subheading{
+    color:#588adb;
+}
+.section-heading{
+    color:#588adb;
 }
