@@ -1,7 +1,32 @@
 body {
-    font-family: 'Tajawal', sans-serif;
+    font-family: 'Nunito', sans-serif;
 }
 
 .section-heading {
-    font-family: 'Spectral', serif;
+    font-family: 'DM Sans', sans-serif;
+    color:#3460E1;
+}
+
+.profile-icon {
+    margin-bottom:10px;
+}
+
+.profile-icon:hover {
+    color:#3460E1;
+}
+
+#portfolio {
+    font-size:15px;
+    padding:10px;
+    border:1px solid #888;
+    border-radius:5px;
+    color:#888;
+    transition:0.5s;
+}
+
+#portfolio:hover {
+    background-color:#3460E1;
+    border:1px solid #3460E1;
+    color:white;
+    transition:0.5s;
 }
