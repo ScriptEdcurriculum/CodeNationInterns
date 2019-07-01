@@ -1,0 +1,15 @@
+.section-heading{
+    font-family: 'Poiret One', cursive;
+
+}
+
+.info{
+    display:flex;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(255,156,156,1) 0%, rgba(179,201,241,1) 90% );
+
+}
+
+.col-lg-12{
+    justify-content:space-around;
+    text-align: center;
+}

@@ -180,6 +180,15 @@ var interns = [
         year: 2018,
     },
     {
+        firstName: 'Kailin',
+        lastName: 'Ke',
+        folderName: 'kailin_ke',
+        fileName: 'kailin.html',
+        imgName: 'kailin.jpg',
+        company: 'LaunchDarkly',
+        year: 2019,
+    },
+    {
         firstName: 'Kevin',
         lastName: 'Hui',
         folderName: 'kevin_hui',
