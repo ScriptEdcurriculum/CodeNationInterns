@@ -1,0 +1,15 @@
+.section-heading {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+p, ul {
+    font-family: 'Raleway', sans-serif;
+}
+
+.bg-light {
+    background-image: linear-gradient(to right,#91A8D0, #B3A0C9)
+}
+
+.col-lg-12 {
+    margin: 5px;
+}
