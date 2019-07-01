@@ -185,7 +185,7 @@ var interns = [
         folderName: 'kailin_ke',
         fileName: 'kailin.html',
         imgName: 'kailin.jpg',
-        company: 'Launch Darkly',
+        company: 'LaunchDarkly',
         year: 2019,
     },
     {
